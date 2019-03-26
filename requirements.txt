@@ -1,0 +1,4 @@
+gym
+numpy
+jupyter
+git+https://github.com/RobertTLange/gym-hanoi.git
